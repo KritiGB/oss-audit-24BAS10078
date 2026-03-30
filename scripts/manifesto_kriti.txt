@@ -1,0 +1,5 @@
+My Open Source Manifesto - 30 March 2026
+
+I rely on tools like VS Code to learn, create, and explore.
+To me, open source is fundamentally about Choice.
+If I could contribute to this ecosystem, I would build Calculator and share it with the world.
