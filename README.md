@@ -15,4 +15,3 @@ First, navigate to the scripts folder: `cd scripts`
   Execute: `./script4.sh /var/log/dpkg.log install`
 * **Script 5: Manifesto Generator** (creates an open-source manifesto interactively)
   Execute: `./script5.sh`
-EOF
